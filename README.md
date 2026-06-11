@@ -35,7 +35,7 @@ Feel free to add in the same manner more colors for other tags
 
 ### Additional notes: 
 1. This calendar view works (perhaps best) together with the Tasks plug-in---the calendar view would not display the emojis associated with the plug-in
-2. I recommend adding `dashboard.css` to the YAML header. Can be found here:
+2. I recommend adding TfTHacker's `dashboard.css` to the YAML header. Can be found here:
 
 ```
 https://github.com/TfTHacker/DashboardPlusPlus/blob/master/.obsidian/snippets/dashboard.css
