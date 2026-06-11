@@ -43,7 +43,7 @@ https://github.com/TfTHacker/DashboardPlusPlus/blob/master/.obsidian/snippets/da
 
 # Example 
 
-![](calendar-view-example)
+![](calendar-view-example.png)
 
 
 
