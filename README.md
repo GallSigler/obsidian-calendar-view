@@ -30,7 +30,7 @@ Feel free to add in the same manner more colors for other tags
 5. Format your tasks in the following format: 
 
 ```
-[ ] Buy birthday gift for Sarah 2026-07-03
+[ ] Buy birthday gift for Sarah #tasks/tag1 2026-07-03
 ```
 
 ### Additional notes: 
