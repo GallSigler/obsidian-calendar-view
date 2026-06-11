@@ -27,6 +27,20 @@ if (t.text.includes("#tasks/deadline")) {
 
 Feel free to add in the same manner more colors for other tags
 
+5. Format your tasks in the following format: 
+
+```
+[ ] Buy birthday gift for Sarah 2026-07-03
+```
+
+Additional notes: 
+1. This calendar view works (perhaps best) together with the Tasks plug-in---the calendar view would not display the emojis associated with the plug-in
+2. I recommend adding `dashboard.css` to the YAML header. Can be found here:
+
+```
+https://github.com/TfTHacker/DashboardPlusPlus/blob/master/.obsidian/snippets/dashboard.css
+```
+
 # Example 
 
 
